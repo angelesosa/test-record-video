@@ -9,5 +9,11 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+    
+  monospace;
+}
+
+
+#myVideo {
+  background-color: #ACB2F2;
 }
